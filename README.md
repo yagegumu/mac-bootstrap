@@ -1,2 +1,10 @@
-# mac-bootstrap
-Mac 开发环境初始化脚本
+# Mac Bootstrap
+
+Mac development environment bootstrap script.
+
+## Install
+
+Run:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/yagegumu/mac-bootstrap/main/setup_mac.sh)
